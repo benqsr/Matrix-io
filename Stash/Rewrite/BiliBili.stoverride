@@ -17,7 +17,7 @@ http:
     - ^https:\/\/api\.bilibili\.com\/x\/web-interface\/zone\?jsonp - reject-dict
 
     - ^https:\/\/api\.live\.bilibili\.com\/xlive\/e-commerce-interface\/v1\/ecommerce-user\/get_shopping_info\? - reject-dict
-    
+
     - ^https:\/\/app\.bilibili\.com\/x\/resource\/ip - reject-dict
 
   script:
@@ -122,6 +122,7 @@ script-providers:
   哔哩哔哩.A:
     url: https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/bilibili/protoC.js
     interval: 86400
+
   哔哩哔哩.B:
     url: https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/bilibili/json.js
     interval: 86400
