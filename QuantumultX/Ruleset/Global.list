@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7469
+# 规则统计: 7471
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -1241,6 +1241,7 @@ HOST-SUFFIX,ciciai.com,Global
 HOST-SUFFIX,cienen.com,Global
 HOST-SUFFIX,cineastentreff.de,Global
 HOST-SUFFIX,cipfg.org,Global
+HOST-SUFFIX,circle19.org,Global
 HOST-SUFFIX,circlethebayfortibet.org,Global
 HOST-SUFFIX,cirosantilli.com,Global
 HOST-SUFFIX,citizencn.com,Global
@@ -3602,6 +3603,7 @@ HOST-SUFFIX,kanzhongguo.com,Global
 HOST-SUFFIX,kanzhongguo.eu,Global
 HOST-SUFFIX,kaotic.com,Global
 HOST-SUFFIX,karayou.com,Global
+HOST-SUFFIX,kards.com,Global
 HOST-SUFFIX,karkhung.com,Global
 HOST-SUFFIX,karmapa-teachings.org,Global
 HOST-SUFFIX,karmapa.org,Global
