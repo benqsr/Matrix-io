@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 34859
+# 规则统计: 34864
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -6941,6 +6941,7 @@ HOST-SUFFIX,cinny.in,GlobalMax
 HOST-SUFFIX,cios.org,GlobalMax
 HOST-SUFFIX,ciota.ac.uk,GlobalMax
 HOST-SUFFIX,cipfg.org,GlobalMax
+HOST-SUFFIX,circle19.org,GlobalMax
 HOST-SUFFIX,circlethebayfortibet.org,GlobalMax
 HOST-SUFFIX,cirencester.ac.uk,GlobalMax
 HOST-SUFFIX,cirius.ac.uk,GlobalMax
@@ -9026,6 +9027,7 @@ HOST-SUFFIX,docs.cfw.lbyczf.com,GlobalMax
 HOST-SUFFIX,docs.com,GlobalMax
 HOST-SUFFIX,docs.new,GlobalMax
 HOST-SUFFIX,docs.rs,GlobalMax
+HOST-SUFFIX,docs.rw,GlobalMax
 HOST-SUFFIX,doctor-videos.com,GlobalMax
 HOST-SUFFIX,doctorvoice.org,GlobalMax
 HOST-SUFFIX,documentforce.com,GlobalMax
@@ -17369,6 +17371,7 @@ HOST-SUFFIX,kaotic.com,GlobalMax
 HOST-SUFFIX,karabako-gmo.com,GlobalMax
 HOST-SUFFIX,karafarinbank.ir,GlobalMax
 HOST-SUFFIX,karayou.com,GlobalMax
+HOST-SUFFIX,kards.com,GlobalMax
 HOST-SUFFIX,karechat.ai,GlobalMax
 HOST-SUFFIX,karinahart.com,GlobalMax
 HOST-SUFFIX,karkhung.com,GlobalMax
@@ -18433,6 +18436,7 @@ HOST-SUFFIX,localxlist.org,GlobalMax
 HOST-SUFFIX,locate.ac.uk,GlobalMax
 HOST-SUFFIX,lockestek.com,GlobalMax
 HOST-SUFFIX,lockssalliance.ac.uk,GlobalMax
+HOST-SUFFIX,log.rw,GlobalMax
 HOST-SUFFIX,logbot.net,GlobalMax
 HOST-SUFFIX,logi.com,GlobalMax
 HOST-SUFFIX,logic.ac.uk,GlobalMax
@@ -30074,6 +30078,7 @@ HOST-SUFFIX,truyenhentai.xyz,GlobalMax
 HOST-SUFFIX,truyenkk1.com,GlobalMax
 HOST-SUFFIX,truyentranh86.com,GlobalMax
 HOST-SUFFIX,truyenwk.com,GlobalMax
+HOST-SUFFIX,try.rw,GlobalMax
 HOST-SUFFIX,tryalias.com,GlobalMax
 HOST-SUFFIX,tryboobs.com,GlobalMax
 HOST-SUFFIX,trycloudflare.com,GlobalMax
