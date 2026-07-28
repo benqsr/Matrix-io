@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7471
+# 规则统计: 7472
 
 payload:
   - DOMAIN,cloud.oracle.com
@@ -6266,6 +6266,7 @@ payload:
   - DOMAIN-SUFFIX,truthontour.org
   - DOMAIN-SUFFIX,truthsocial.com
   - DOMAIN-SUFFIX,truveo.com
+  - DOMAIN-SUFFIX,tryai.dev
   - DOMAIN-SUFFIX,tryheart.jp
   - DOMAIN-SUFFIX,tsctv.net
   - DOMAIN-SUFFIX,tsdr.uspto.gov

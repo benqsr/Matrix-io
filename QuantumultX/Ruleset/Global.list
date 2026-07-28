@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7471
+# 规则统计: 7472
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -6265,6 +6265,7 @@ HOST-SUFFIX,truth101.co.tv,Global
 HOST-SUFFIX,truthontour.org,Global
 HOST-SUFFIX,truthsocial.com,Global
 HOST-SUFFIX,truveo.com,Global
+HOST-SUFFIX,tryai.dev,Global
 HOST-SUFFIX,tryheart.jp,Global
 HOST-SUFFIX,tsctv.net,Global
 HOST-SUFFIX,tsdr.uspto.gov,Global
