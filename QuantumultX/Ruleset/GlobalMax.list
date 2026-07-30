@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 34864
+# 规则统计: 34871
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -4782,6 +4782,7 @@ HOST-SUFFIX,bluemix.net,GlobalMax
 HOST-SUFFIX,bluestacks.com,GlobalMax
 HOST-SUFFIX,bluestone.ac.uk,GlobalMax
 HOST-SUFFIX,bluffyporn.com,GlobalMax
+HOST-SUFFIX,blurams.app,GlobalMax
 HOST-SUFFIX,blurams.com,GlobalMax
 HOST-SUFFIX,blws.ac.uk,GlobalMax
 HOST-SUFFIX,blylq.buzz,GlobalMax
@@ -6499,6 +6500,7 @@ HOST-SUFFIX,cemp.ac.uk,GlobalMax
 HOST-SUFFIX,cencoastbmw.com,GlobalMax
 HOST-SUFFIX,cenews.eu,GlobalMax
 HOST-SUFFIX,cenkei.com,GlobalMax
+HOST-SUFFIX,ceno.app,GlobalMax
 HOST-SUFFIX,censorship.ai,GlobalMax
 HOST-SUFFIX,censorship.no,GlobalMax
 HOST-SUFFIX,census-registration.ac.uk,GlobalMax
@@ -12872,6 +12874,7 @@ HOST-SUFFIX,githubhackathon.com,GlobalMax
 HOST-SUFFIX,githubnext.com,GlobalMax
 HOST-SUFFIX,githubpreview.dev,GlobalMax
 HOST-SUFFIX,githubstatus.com,GlobalMax
+HOST-SUFFIX,githubsupport.com,GlobalMax
 HOST-SUFFIX,githubuniverse.com,GlobalMax
 HOST-SUFFIX,githubusercontent.com,GlobalMax
 HOST-SUFFIX,gitlab-static.net,GlobalMax
@@ -16650,6 +16653,7 @@ HOST-SUFFIX,iutunes.com,GlobalMax
 HOST-SUFFIX,ivacy.com,GlobalMax
 HOST-SUFFIX,iverycd.com,GlobalMax
 HOST-SUFFIX,ivi.ru,GlobalMax
+HOST-SUFFIX,ivicdn.tv,GlobalMax
 HOST-SUFFIX,ivintageporn.com,GlobalMax
 HOST-SUFFIX,ivonblog.com,GlobalMax
 HOST-SUFFIX,ivpn.net,GlobalMax
@@ -17566,6 +17570,7 @@ HOST-SUFFIX,kindleren.com,GlobalMax
 HOST-SUFFIX,kindnudist.com,GlobalMax
 HOST-SUFFIX,kinds.ac.uk,GlobalMax
 HOST-SUFFIX,kindteenporn.com,GlobalMax
+HOST-SUFFIX,kinescopecdn.net,GlobalMax
 HOST-SUFFIX,king.ac.uk,GlobalMax
 HOST-SUFFIX,kingalfreds.ac.uk,GlobalMax
 HOST-SUFFIX,kingalfredsbasingstoke.ac.uk,GlobalMax
@@ -26264,6 +26269,7 @@ HOST-SUFFIX,sber.pro,GlobalMax
 HOST-SUFFIX,sber.ru,GlobalMax
 HOST-SUFFIX,sberauto.com,GlobalMax
 HOST-SUFFIX,sberbank-insurance.ru,GlobalMax
+HOST-SUFFIX,sberbank-tele.com,GlobalMax
 HOST-SUFFIX,sberbank.com,GlobalMax
 HOST-SUFFIX,sberbank.ru,GlobalMax
 HOST-SUFFIX,sberbankaktivno.ru,GlobalMax
@@ -30079,6 +30085,7 @@ HOST-SUFFIX,truyenkk1.com,GlobalMax
 HOST-SUFFIX,truyentranh86.com,GlobalMax
 HOST-SUFFIX,truyenwk.com,GlobalMax
 HOST-SUFFIX,try.rw,GlobalMax
+HOST-SUFFIX,tryai.dev,GlobalMax
 HOST-SUFFIX,tryalias.com,GlobalMax
 HOST-SUFFIX,tryboobs.com,GlobalMax
 HOST-SUFFIX,trycloudflare.com,GlobalMax
