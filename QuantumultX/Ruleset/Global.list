@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7474
+# 规则统计: 7475
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -4511,6 +4511,7 @@ HOST-SUFFIX,ntdtv.jp,Global
 HOST-SUFFIX,ntdtv.org,Global
 HOST-SUFFIX,ntdtv.ru,Global
 HOST-SUFFIX,ntdtvla.com,Global
+HOST-SUFFIX,nthlink.com,Global
 HOST-SUFFIX,ntrfun.com,Global
 HOST-SUFFIX,ntu.edu.tw,Global
 HOST-SUFFIX,nu.nl,Global
