@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 34893
+# 规则统计: 34902
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -1019,6 +1019,7 @@ HOST-SUFFIX,acsis.ac.uk,GlobalMax
 HOST-SUFFIX,actalis.com,GlobalMax
 HOST-SUFFIX,actalis.it,GlobalMax
 HOST-SUFFIX,actfortibet.org,GlobalMax
+HOST-SUFFIX,actifio.com,GlobalMax
 HOST-SUFFIX,actimes.com.au,GlobalMax
 HOST-SUFFIX,activatelearning.ac.uk,GlobalMax
 HOST-SUFFIX,activelearnprimary.co.uk,GlobalMax
@@ -16969,7 +16970,10 @@ HOST-SUFFIX,jetbra.in,GlobalMax
 HOST-SUFFIX,jetbrains.ai,GlobalMax
 HOST-SUFFIX,jetbrains.cloud,GlobalMax
 HOST-SUFFIX,jetbrains.com,GlobalMax
+HOST-SUFFIX,jetbrains.dev,GlobalMax
 HOST-SUFFIX,jetbrains.net,GlobalMax
+HOST-SUFFIX,jetbrains.org,GlobalMax
+HOST-SUFFIX,jetbrains.ru,GlobalMax
 HOST-SUFFIX,jetbrains.space,GlobalMax
 HOST-SUFFIX,jetbrains.team,GlobalMax
 HOST-SUFFIX,jetfuelapp.com,GlobalMax
@@ -17720,6 +17724,8 @@ HOST-SUFFIX,korona.com,GlobalMax
 HOST-SUFFIX,koshelek.app,GlobalMax
 HOST-SUFFIX,koskade.com,GlobalMax
 HOST-SUFFIX,kostenlosepornoclips.com,GlobalMax
+HOST-SUFFIX,kotl.in,GlobalMax
+HOST-SUFFIX,kotlinconf.com,GlobalMax
 HOST-SUFFIX,kotlinlang.org,GlobalMax
 HOST-SUFFIX,koubaibu.jp,GlobalMax
 HOST-SUFFIX,koukoku.jp,GlobalMax
@@ -17754,6 +17760,7 @@ HOST-SUFFIX,kssacademy.ac.uk,GlobalMax
 HOST-SUFFIX,kssdeanery.ac.uk,GlobalMax
 HOST-SUFFIX,ksyp10.com,GlobalMax
 HOST-SUFFIX,ktech.team,GlobalMax
+HOST-SUFFIX,ktor.io,GlobalMax
 HOST-SUFFIX,ktvu.com,GlobalMax
 HOST-SUFFIX,ktzhk.com,GlobalMax
 HOST-SUFFIX,ku77.xyz,GlobalMax
@@ -20928,6 +20935,7 @@ HOST-SUFFIX,myicloud.net,GlobalMax
 HOST-SUFFIX,myiphide.com,GlobalMax
 HOST-SUFFIX,myiphider.com,GlobalMax
 HOST-SUFFIX,myipod.net,GlobalMax
+HOST-SUFFIX,myjetbrains.com,GlobalMax
 HOST-SUFFIX,myjkwd.com,GlobalMax
 HOST-SUFFIX,myjs.tw,GlobalMax
 HOST-SUFFIX,mykomica.org,GlobalMax
@@ -22230,6 +22238,7 @@ HOST-SUFFIX,ntdvideo.tw,GlobalMax
 HOST-SUFFIX,ntdvn.com,GlobalMax
 HOST-SUFFIX,ntec.ac.uk,GlobalMax
 HOST-SUFFIX,ntfs.ac.uk,GlobalMax
+HOST-SUFFIX,nthlink.com,GlobalMax
 HOST-SUFFIX,ntidagenham.ac.uk,GlobalMax
 HOST-SUFFIX,ntl.fyi,GlobalMax
 HOST-SUFFIX,ntnews.com.au,GlobalMax
@@ -22901,6 +22910,7 @@ HOST-SUFFIX,openweathermap.org,GlobalMax
 HOST-SUFFIX,openweave.io,GlobalMax
 HOST-SUFFIX,openwebster.com,GlobalMax
 HOST-SUFFIX,openwrt.org,GlobalMax
+HOST-SUFFIX,openxla.org,GlobalMax
 HOST-SUFFIX,opera-archive.ac.uk,GlobalMax
 HOST-SUFFIX,opera-mini.net,GlobalMax
 HOST-SUFFIX,opera.com,GlobalMax
@@ -25115,7 +25125,6 @@ HOST-SUFFIX,radioaustralia.net.au,GlobalMax
 HOST-SUFFIX,radiofarda.com,GlobalMax
 HOST-SUFFIX,radioglobo.com.br,GlobalMax
 HOST-SUFFIX,radiohilight.net,GlobalMax
-HOST-SUFFIX,radiojar.com,GlobalMax
 HOST-SUFFIX,radioline.co,GlobalMax
 HOST-SUFFIX,radiomango.fm,GlobalMax
 HOST-SUFFIX,radiomarsho.com,GlobalMax
@@ -28892,6 +28901,7 @@ HOST-SUFFIX,talkatone.com,GlobalMax
 HOST-SUFFIX,talkboxapp.com,GlobalMax
 HOST-SUFFIX,talkcc.com,GlobalMax
 HOST-SUFFIX,talkinghealthmatters.ac.uk,GlobalMax
+HOST-SUFFIX,talkingkotlin.com,GlobalMax
 HOST-SUFFIX,talkonly.net,GlobalMax
 HOST-SUFFIX,talksport.com,GlobalMax
 HOST-SUFFIX,tamescol.ac.uk,GlobalMax
@@ -33045,7 +33055,6 @@ HOST-SUFFIX,www-facebook.com,GlobalMax
 HOST-SUFFIX,www-paypal.info,GlobalMax
 HOST-SUFFIX,www-paypal.us,GlobalMax
 HOST-SUFFIX,www-sms-apple.com,GlobalMax
-HOST-SUFFIX,www.clashverge.dev,GlobalMax
 HOST-SUFFIX,www.destinationurl.com,GlobalMax
 HOST-SUFFIX,www.pxcc.com,GlobalMax
 HOST-SUFFIX,www.sb,GlobalMax
