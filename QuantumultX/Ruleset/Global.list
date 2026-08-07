@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7474
+# 规则统计: 7472
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -503,7 +503,6 @@ HOST-SUFFIX,atnext.com,Global
 HOST-SUFFIX,auctions.yahoo.co.jp,Global
 HOST-SUFFIX,audacy.com,Global
 HOST-SUFFIX,audionow.com,Global
-HOST-SUFFIX,auntology.fandom.com,Global
 HOST-SUFFIX,authorizeddns.net,Global
 HOST-SUFFIX,authorizeddns.org,Global
 HOST-SUFFIX,authorizeddns.us,Global
@@ -3102,7 +3101,6 @@ HOST-SUFFIX,homedepot.com,Global
 HOST-SUFFIX,homeperversion.com,Global
 HOST-SUFFIX,homeservershow.com,Global
 HOST-SUFFIX,honeynet.org,Global
-HOST-SUFFIX,hongkong.fandom.com,Global
 HOST-SUFFIX,hongkongfp.com,Global
 HOST-SUFFIX,hongmeimei.com,Global
 HOST-SUFFIX,hongzhi.li,Global
