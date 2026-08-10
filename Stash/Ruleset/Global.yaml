@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7472
+# 规则统计: 7476
 
 payload:
   - DOMAIN,cloud.oracle.com
@@ -242,6 +242,7 @@ payload:
   - DOMAIN-SUFFIX,ai.dev
   - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aihub.top
   - DOMAIN-SUFFIX,aiosearch.com
   - DOMAIN-SUFFIX,aiph.net
   - DOMAIN-SUFFIX,airasia.com
@@ -579,6 +580,7 @@ payload:
   - DOMAIN-SUFFIX,bartender.dowjones.com
   - DOMAIN-SUFFIX,barton.de
   - DOMAIN-SUFFIX,bartvpn.com
+  - DOMAIN-SUFFIX,basemaps.arcgis.com
   - DOMAIN-SUFFIX,bastillepost.com
   - DOMAIN-SUFFIX,bayvoice.net
   - DOMAIN-SUFFIX,baywords.com
@@ -1889,6 +1891,7 @@ payload:
   - DOMAIN-SUFFIX,eroprofile.com
   - DOMAIN-SUFFIX,eroticsaloon.net
   - DOMAIN-SUFFIX,esg.t91y.com
+  - DOMAIN-SUFFIX,esim.redteago.com
   - DOMAIN-SUFFIX,eslite.com
   - DOMAIN-SUFFIX,esmtp.biz
   - DOMAIN-SUFFIX,esurance.com
@@ -1927,6 +1930,7 @@ payload:
   - DOMAIN-SUFFIX,expatshield.com
   - DOMAIN-SUFFIX,expecthim.com
   - DOMAIN-SUFFIX,expekt.com
+  - DOMAIN-SUFFIX,experience.arcgis.com
   - DOMAIN-SUFFIX,experts-univers.com
   - DOMAIN-SUFFIX,exploader.net
   - DOMAIN-SUFFIX,expofutures.com

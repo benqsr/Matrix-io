@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7472
+# 规则统计: 7476
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -241,6 +241,7 @@ HOST-SUFFIX,ai-wen.net,Global
 HOST-SUFFIX,ai.dev,Global
 HOST-SUFFIX,ai.google,Global
 HOST-SUFFIX,ai.studio,Global
+HOST-SUFFIX,aihub.top,Global
 HOST-SUFFIX,aiosearch.com,Global
 HOST-SUFFIX,aiph.net,Global
 HOST-SUFFIX,airasia.com,Global
@@ -578,6 +579,7 @@ HOST-SUFFIX,barnabu.co.uk,Global
 HOST-SUFFIX,bartender.dowjones.com,Global
 HOST-SUFFIX,barton.de,Global
 HOST-SUFFIX,bartvpn.com,Global
+HOST-SUFFIX,basemaps.arcgis.com,Global
 HOST-SUFFIX,bastillepost.com,Global
 HOST-SUFFIX,bayvoice.net,Global
 HOST-SUFFIX,baywords.com,Global
@@ -1888,6 +1890,7 @@ HOST-SUFFIX,eromon.net,Global
 HOST-SUFFIX,eroprofile.com,Global
 HOST-SUFFIX,eroticsaloon.net,Global
 HOST-SUFFIX,esg.t91y.com,Global
+HOST-SUFFIX,esim.redteago.com,Global
 HOST-SUFFIX,eslite.com,Global
 HOST-SUFFIX,esmtp.biz,Global
 HOST-SUFFIX,esurance.com,Global
@@ -1926,6 +1929,7 @@ HOST-SUFFIX,exmormon.org,Global
 HOST-SUFFIX,expatshield.com,Global
 HOST-SUFFIX,expecthim.com,Global
 HOST-SUFFIX,expekt.com,Global
+HOST-SUFFIX,experience.arcgis.com,Global
 HOST-SUFFIX,experts-univers.com,Global
 HOST-SUFFIX,exploader.net,Global
 HOST-SUFFIX,expofutures.com,Global
