@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7476
+# 规则统计: 7477
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -1608,6 +1608,7 @@ HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,Global
 HOST-SUFFIX,disp.cc,Global
 HOST-SUFFIX,disqus.com,Global
 HOST-SUFFIX,dit-inc.us,Global
+HOST-SUFFIX,divdyn.com,Global
 HOST-SUFFIX,diyin.org,Global
 HOST-SUFFIX,dizhidizhi.com,Global
 HOST-SUFFIX,dizhuzhishang.com,Global
