@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 124080
+# 规则统计: 124083
 
 no_resolve: true
 domain_set:
@@ -51632,6 +51632,8 @@ domain_suffix_set:
   - iot688.com
   - iot889.com
   - iotachem.com
+  - iotaskyt.com
+  - iotaskyty.com
   - iotbay.com
   - iotfair.net
   - iotku.com
@@ -87544,6 +87546,7 @@ domain_suffix_set:
   - tbbbk.com
   - tbcache.com
   - tbcdn.com
+  - tbdesk.com
   - tbh5.com
   - tbhcc.com
   - tbhelper.com

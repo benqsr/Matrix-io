@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 124080
+# 规则统计: 124083
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -51629,6 +51629,8 @@ HOST-SUFFIX,iot101.com,ChinaMax
 HOST-SUFFIX,iot688.com,ChinaMax
 HOST-SUFFIX,iot889.com,ChinaMax
 HOST-SUFFIX,iotachem.com,ChinaMax
+HOST-SUFFIX,iotaskyt.com,ChinaMax
+HOST-SUFFIX,iotaskyty.com,ChinaMax
 HOST-SUFFIX,iotbay.com,ChinaMax
 HOST-SUFFIX,iotfair.net,ChinaMax
 HOST-SUFFIX,iotku.com,ChinaMax
@@ -87541,6 +87543,7 @@ HOST-SUFFIX,tbapp.com,ChinaMax
 HOST-SUFFIX,tbbbk.com,ChinaMax
 HOST-SUFFIX,tbcache.com,ChinaMax
 HOST-SUFFIX,tbcdn.com,ChinaMax
+HOST-SUFFIX,tbdesk.com,ChinaMax
 HOST-SUFFIX,tbh5.com,ChinaMax
 HOST-SUFFIX,tbhcc.com,ChinaMax
 HOST-SUFFIX,tbhelper.com,ChinaMax

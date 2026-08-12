@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 34956
+# 规则统计: 34959
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -1419,6 +1419,7 @@ HOST-SUFFIX,aiasahi.jp,GlobalMax
 HOST-SUFFIX,aib.ac.uk,GlobalMax
 HOST-SUFFIX,aibaobei.me,GlobalMax
 HOST-SUFFIX,aicoin.com,GlobalMax
+HOST-SUFFIX,aihub.top,GlobalMax
 HOST-SUFFIX,aim25.ac.uk,GlobalMax
 HOST-SUFFIX,aimei133.com,GlobalMax
 HOST-SUFFIX,aimhighergreatermerseyside.ac.uk,GlobalMax
@@ -8927,6 +8928,7 @@ HOST-SUFFIX,distribution.qcpp1.net,GlobalMax
 HOST-SUFFIX,distribution.qpdp1.net,GlobalMax
 HOST-SUFFIX,dit-inc.us,GlobalMax
 HOST-SUFFIX,divas.com.uy,GlobalMax
+HOST-SUFFIX,divdyn.com,GlobalMax
 HOST-SUFFIX,diversityuk.ac.uk,GlobalMax
 HOST-SUFFIX,diwodiwo.xyz,GlobalMax
 HOST-SUFFIX,diyarbakirescort.com,GlobalMax
@@ -10499,6 +10501,7 @@ HOST-SUFFIX,eshcru.ac.uk,GlobalMax
 HOST-SUFFIX,esher.ac.uk,GlobalMax
 HOST-SUFFIX,esi.ac.uk,GlobalMax
 HOST-SUFFIX,esim.ac.uk,GlobalMax
+HOST-SUFFIX,esim.redteago.com,GlobalMax
 HOST-SUFFIX,esiss.ac.uk,GlobalMax
 HOST-SUFFIX,eskimotube.com,GlobalMax
 HOST-SUFFIX,eslite.com,GlobalMax
