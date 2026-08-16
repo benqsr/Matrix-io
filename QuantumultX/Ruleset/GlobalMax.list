@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 34999
+# 规则统计: 35002
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -25974,6 +25974,7 @@ HOST-SUFFIX,rsdlmonitor.com,GlobalMax
 HOST-SUFFIX,rse.ac.uk,GlobalMax
 HOST-SUFFIX,rsf-chinese.org,GlobalMax
 HOST-SUFFIX,rsf.org,GlobalMax
+HOST-SUFFIX,rsg.ms,GlobalMax
 HOST-SUFFIX,rsg.sc,GlobalMax
 HOST-SUFFIX,rsgamen.org,GlobalMax
 HOST-SUFFIX,rshb.ru,GlobalMax
@@ -26406,6 +26407,8 @@ HOST-SUFFIX,sbusinesslondon.ac.uk,GlobalMax
 HOST-SUFFIX,sbux.com.my,GlobalMax
 HOST-SUFFIX,sbuxcard.com,GlobalMax
 HOST-SUFFIX,sc-cdn.net,GlobalMax
+HOST-SUFFIX,sc-gw.com,GlobalMax
+HOST-SUFFIX,sc-static.net,GlobalMax
 HOST-SUFFIX,sc-toolkit.ac.uk,GlobalMax
 HOST-SUFFIX,sc.com,GlobalMax
 HOST-SUFFIX,sc1.ac.uk,GlobalMax
